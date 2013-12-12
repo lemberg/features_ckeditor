@@ -1,7 +1,7 @@
 INSTALLATION
 ============
 
-1. Download this feature: `git submodule add git://github.com/lemberg/features_ckeditor.git sites/all/modules/custom/features_ckeditor`
+1. Download this feature: `git submodule add git://github.com/lemberg/features_ckeditor.git sites/all/modules/features/features_ckeditor`
 
 2. Use the latest dev version of CKEditor module: `drush dl ckeditor --dev`
 
